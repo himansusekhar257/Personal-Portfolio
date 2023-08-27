@@ -1,0 +1,120 @@
+@import '../../styles/contants.scss';
+
+.wrapper{
+    background: white;
+    overflow: hidden;
+    .container{
+        flex-direction: column;
+        gap: 2rem;
+        .heading{
+            width: 100%;
+            justify-content: space-between;
+            align-items: flex-end;
+            flex-wrap: wrap; 
+            >:nth-child(2)
+            {
+                text-decoration: underline;
+                color: orange;
+                cursor: pointer;
+            }
+        }    
+        
+        .showCase{
+            width: 100%;
+            gap: 1.5rem;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            >img{
+
+                @media (max-width: $sm) {
+                    width: 100%;
+                }
+                border-radius: 20px;
+                max-width: 25rem;
+                max-height: 18rem;
+                box-shadow: 0px 21px 13px rgba(0, 0, 0, 13%);
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+.skillSection {
+    text-align: center;
+    padding: 60px 0;
+  }
+  
+  .skillBars {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .skillBar {
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .skillName {
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  .progressBar {
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    height: 10px;
+    overflow: hidden;
+  }
+  
+  .progress {
+    height: 100%;
+    border-radius: 5px;
+    background-color: #007bff;
+  }
+  @import '../../styles/contants.scss';
+
+  .wrapper{
+      background: white;
+      overflow: hidden;
+      .container{
+          flex-direction: column;
+          gap: 2rem;
+          .heading{
+              width: 100%;
+              justify-content: space-between;
+              align-items: flex-end;
+              flex-wrap: wrap; 
+              >:nth-child(2)
+              {
+                  text-decoration: underline;
+                  color: orange;
+                  cursor: pointer;
+              }
+          }    
+          
+          .showCase{
+              width: 100%;
+              gap: 1.5rem;
+              justify-content: space-around;
+              flex-wrap: wrap;
+              >img{
+  
+                  @media (max-width: $sm) {
+                      width: 100%;
+                  }
+                  border-radius: 20px;
+                  max-width: 25rem;
+                  max-height: 18rem;
+                  box-shadow: 0px 21px 13px rgba(0, 0, 0, 13%);
+                  cursor: pointer;
+              }
+          }
+      }
+  }
+  
+ 
