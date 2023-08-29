@@ -34,9 +34,12 @@ export const workExp = [
     tenure: "Oct 2022 - Mar 2023",
     role: "Junior Software Developer",
     detail:
-      "Work with strong Developer Team, Completed variety of tasks with team, may include E-commerce, Health etc., and get appreciation. ",
+      "Worked with developers to identify and remove software bugs. Analyzed source code to identify functionality issues. Shadowed team members to learn new tasks and handle technical problems appropriately.",
   },
 ];
+
+
+
 
 export const comments = [
   {
