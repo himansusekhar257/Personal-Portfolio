@@ -24,7 +24,7 @@ export const WhatDoIHelp = [
 export const workExp = [
   {
     place: "Self-Employed, India",
-    tenure: "April 2023 - Aug 2023",
+    tenure: "April 2023 - Continue",
     role: "Web Developer",
     detail:
       "A Website Developer develop for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
