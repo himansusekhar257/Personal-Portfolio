@@ -9,7 +9,7 @@ export const projectExperience = [
     bg: "#286F6C",
   },
   {
-    name: "Devops Automation",
+    name: "DevOps Automation",
     projects: 1,
     icon: CiMobile1,
     bg: "#EEC048",
@@ -17,7 +17,7 @@ export const projectExperience = [
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finding a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
+  "I will help you find a solution and solve your problem, We use process design to create digital products. Besides that, it also helps their business.",
   
 ];
 
@@ -27,7 +27,7 @@ export const workExp = [
     tenure: "April 2023 - Continue",
     role: "Web Developer",
     detail:
-      "A Website Developer develop for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "A Website Developer develops for a variety of platforms, may include internet and internet sites, games, movies, kiosks and wearables. In short, they created the concepts",
   },
   {
     place: "HyScaler, Bhubaneswar",
