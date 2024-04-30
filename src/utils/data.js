@@ -23,15 +23,15 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
-    place: "Self-Employed, India",
-    tenure: "April 2023 - Continue",
-    role: "Web Developer",
+    place: "DrSignet Healthcare, Bhubaneswar, India",
+    tenure: "Nov 2023 - Continue",
+    role: "Full Stack Developer",
     detail:
-      "A Website Developer develops for a variety of platforms, may include internet and internet sites, games, movies, kiosks and wearables. In short, they created the concepts",
+      "Create Drsignet.com Website From Scratch using MERN STACK and deploy it on AWS.Utilized AWS services including Elastic Beanstalk, Amplify, CodeCommit, CodeBuild,and CodeDeploy for efficient deployment and management of the website.",
   },
   {
     place: "HyScaler, Bhubaneswar",
-    tenure: "Oct 2022 - Mar 2023",
+    tenure: "Oct 2022 - Oct 2023",
     role: "Junior Software Developer",
     detail:
       "Worked with developers to identify and remove software bugs. Analyzed source code to identify functionality issues. Shadowed team members to learn new tasks and handle technical problems appropriately.",
