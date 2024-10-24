@@ -6,12 +6,15 @@ const skillsData = [
   { skill: 'Java', percentage: 85 },
   { skill: 'Python', percentage: 80 },
   { skill: 'MERN Stack', percentage: 75 },
-  { skill: 'CSS', percentage: 90 },
-  { skill: 'Tailwind CSS', percentage: 70 },
-  { skill: 'REST API', percentage: 85 },
   { skill: 'MySQL', percentage: 80 },
+  { skill: 'Linux', percentage: 90 },
+  { skill: 'Shell Scripting', percentage: 70 },
   { skill: 'AWS', percentage: 70 },
   { skill: 'Docker', percentage: 75 },
+  { skill: 'Kubernetes', percentage: 75 },
+  { skill: 'Jenkins', percentage: 75 },
+  { skill: 'Terraform', percentage: 75 },
+  { skill: 'Ansible', percentage: 75 },
   { skill: 'GitHub', percentage: 90 },
 ];
 

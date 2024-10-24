@@ -4,13 +4,13 @@ import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
     name: "Website Development",
-    projects: 10,
+    projects: 4,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
     name: "DevOps Automation",
-    projects: 1,
+    projects: 5,
     icon: CiMobile1,
     bg: "#EEC048",
   },
@@ -23,15 +23,22 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
+    place: "Unified Infotech, Kolkata, India",
+    tenure: "Aug 2024 - Continue",
+    role: "Devops Engineer",
+    detail:
+      "Designed new architectures within the Aws for a lift and shift style move as the first stage cloud solution.",
+  },
+  {
     place: "DrSignet Healthcare, Bhubaneswar, India",
-    tenure: "Nov 2023 - Continue",
-    role: "Full Stack Developer",
+    tenure: "Mar 2023 - jul 2024",
+    role: "Software Engineer",
     detail:
       "Create Drsignet.com Website From Scratch using MERN STACK and deploy it on AWS.Utilized AWS services including Elastic Beanstalk, Amplify, CodeCommit, CodeBuild,and CodeDeploy for efficient deployment and management of the website.",
   },
   {
     place: "HyScaler, Bhubaneswar",
-    tenure: "Oct 2022 - Oct 2023",
+    tenure: "Oct 2022 - Mar 2023",
     role: "Junior Software Developer",
     detail:
       "Worked with developers to identify and remove software bugs. Analyzed source code to identify functionality issues. Shadowed team members to learn new tasks and handle technical problems appropriately.",
