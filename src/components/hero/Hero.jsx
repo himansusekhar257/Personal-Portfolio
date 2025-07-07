@@ -59,7 +59,7 @@ const Hero = () => {
                     className={css.certificate}>
                         <img src="./certificate.png" alt="" />
                         <span>Professional</span>
-                        <span>SOFTWARE DEVELOPER</span>
+                        <span>DevOps & Cloud Engineer</span>
                     </motion.div>
                 </div>
             </motion.div>

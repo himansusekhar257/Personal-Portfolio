@@ -3,19 +3,21 @@ import styles from './Skill.module.scss';
 import {motion} from 'framer-motion'
 import { fadeIn, slideIn, staggerChildren, textVariant, textVariant2, zoomIn } from "../../utils/motion";
 const skillsData = [
-  { skill: 'Java', percentage: 85 },
-  { skill: 'Python', percentage: 80 },
-  { skill: 'MERN Stack', percentage: 75 },
-  { skill: 'MySQL', percentage: 80 },
-  { skill: 'Linux', percentage: 90 },
-  { skill: 'Shell Scripting', percentage: 70 },
-  { skill: 'AWS', percentage: 70 },
-  { skill: 'Docker', percentage: 75 },
-  { skill: 'Kubernetes', percentage: 75 },
-  { skill: 'Jenkins', percentage: 75 },
-  { skill: 'Terraform', percentage: 75 },
-  { skill: 'Ansible', percentage: 75 },
+  { skill: 'Azure', percentage: 90 },
+  { skill: 'AWS', percentage: 80 },
+  { skill: 'Linux', percentage: 85 },
+  { skill: 'Bash Scripting', percentage: 80 },
+  { skill: 'Python', percentage: 60 },
+  { skill: 'Docker', percentage: 85 },
+  { skill: 'Kubernetes (AKS)', percentage: 85 },
+  { skill: 'Jenkins', percentage: 80 },
+  { skill: 'Azure DevOps', percentage: 85 },
   { skill: 'GitHub', percentage: 90 },
+  { skill: 'Ansible', percentage: 70 },
+  { skill: 'Prometheus & Grafana', percentage: 75 },
+  { skill: 'CI/CD Pipelines', percentage: 90 },
+  { skill: 'Infrastructure as Code (IaC)', percentage: 70 },
+  { skill: 'Monitoring & Logging', percentage: 80 },
 ];
 
 const Skill = () => {

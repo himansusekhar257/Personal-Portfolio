@@ -27,21 +27,21 @@ export const workExp = [
     tenure: "Aug 2024 - Continue",
     role: "Devops Engineer",
     detail:
-      "Designed new architectures within the Aws for a lift and shift style move as the first stage cloud solution.",
+      "Managed Azure cloud infrastructure for client applications using services like Virtual Machines (VMs), Storage Accounts, Key Vault, API Management (APIM), Azure Front Door, and MySQL Flexible Server. Developed and maintained CI/CD pipelines using Jenkins and Azure Pipelines, streamlining deployments across multiple environments (Dev, Staging, QA, Production).",
   },
   {
     place: "DrSignet Healthcare, Bhubaneswar, India",
     tenure: "Mar 2023 - jul 2024",
     role: "Software Engineer",
     detail:
-      "Create Drsignet.com Website From Scratch using MERN STACK and deploy it on AWS.Utilized AWS services including Elastic Beanstalk, Amplify, CodeCommit, CodeBuild,and CodeDeploy for efficient deployment and management of the website.",
+      "Created and managed S3 buckets with appropriate permissions, lifecycle policies, and encryption for storing application assets and backups. Helped configure IAM roles, users, and policies to support secure access control for different environments. Wrote simple Bash scripts to automate routine cloud tasks, such as log rotation, cleanup jobs, and instance status checks.",
   },
   {
     place: "HyScaler, Bhubaneswar",
     tenure: "Oct 2022 - Mar 2023",
     role: "Junior Software Developer",
     detail:
-      "Worked with developers to identify and remove software bugs. Analyzed source code to identify functionality issues. Shadowed team members to learn new tasks and handle technical problems appropriately.",
+      "Managed Linux-based servers, including user & permission management. Configured and managed cron jobs for scheduled automation tasks.Developed basic shell scripts to automate routine processes. Assisted in AWS resource provisioning and troubleshooting cloud-based applications.",
   },
 ];
 
