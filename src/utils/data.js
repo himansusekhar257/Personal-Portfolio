@@ -3,14 +3,14 @@ import { CiMobile1 } from "react-icons/ci";
 import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
-    name: "Website Development",
-    projects: 4,
+    name: "Azure",
+    projects: 5,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
     name: "DevOps Automation",
-    projects: 5,
+    projects: 3,
     icon: CiMobile1,
     bg: "#EEC048",
   },
