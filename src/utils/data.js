@@ -24,24 +24,17 @@ export const WhatDoIHelp = [
 export const workExp = [
   {
     place: "Unified Infotech, Kolkata, India",
-    tenure: "Aug 2024 - Continue",
-    role: "Devops Engineer",
+    tenure: "Aug 2024 - Aug 2025",
+    role: "Cloud & Devops Engineer",
     detail:
       "Managed Azure cloud infrastructure for client applications using services like Virtual Machines (VMs), Storage Accounts, Key Vault, API Management (APIM), Azure Front Door, and MySQL Flexible Server. Developed and maintained CI/CD pipelines using Jenkins and Azure Pipelines, streamlining deployments across multiple environments (Dev, Staging, QA, Production).",
   },
   {
-    place: "DrSignet Healthcare, Bhubaneswar, India",
-    tenure: "Mar 2023 - jul 2024",
+    place: "DrSignet Healthcare, Bhubaneswar",
+    tenure: "July 2022 - july 2024",
     role: "Software Engineer",
     detail:
-      "Created and managed S3 buckets with appropriate permissions, lifecycle policies, and encryption for storing application assets and backups. Helped configure IAM roles, users, and policies to support secure access control for different environments. Wrote simple Bash scripts to automate routine cloud tasks, such as log rotation, cleanup jobs, and instance status checks.",
-  },
-  {
-    place: "HyScaler, Bhubaneswar",
-    tenure: "Oct 2022 - Mar 2023",
-    role: "Junior Software Developer",
-    detail:
-      "Managed Linux-based servers, including user & permission management. Configured and managed cron jobs for scheduled automation tasks.Developed basic shell scripts to automate routine processes. Assisted in AWS resource provisioning and troubleshooting cloud-based applications.",
+      "Managed and secured AWS infrastructure using Terraform, codifying EC2, S3, RDS, and IAM resources for fully reproducible and version-controlled environments.Created and managed S3 buckets with appropriate permissions, lifecycle policies, and encryption for storing application assets and backups. Helped configure IAM roles, users, and policies to support secure access control for different environments. Wrote simple Bash scripts to automate routine cloud tasks, such as log rotation, cleanup jobs, and instance status checks.",
   },
 ];
 
