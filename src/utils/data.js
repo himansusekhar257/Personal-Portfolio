@@ -18,7 +18,6 @@ export const projectExperience = [
 
 export const WhatDoIHelp = [
   "I will help you find a solution and solve your problem, We use process design to create digital products. Besides that, it also helps their business.",
-  
 ];
 
 export const workExp = [
